@@ -7,9 +7,9 @@
 
 ## 💻 Contatos 💻
 <div>
-    <a href="https://www.linkedin.com/in/neemias-sanches-ba4002273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" widht= 30px; height= 30px target="_blank"></a>
-    <a href="https://twitter.com/NeemiasTKat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" widht= 30px; height= 30px></a>
-    <a href="mailto:neemiasanches@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" widht= 30px; height= 30px target="_blank"></a>
+    <a href="https://www.linkedin.com/in/neemias-sanches-ba4002273/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" widht= 30px; height= 30px></a>
+    <a href="https://twitter.com/NeemiasTKat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" widht= 30px; height= 30px></a>
+    <a href="mailto:neemiasanches@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" widht= 30px; height= 30px></a>
 </div>
           
           
