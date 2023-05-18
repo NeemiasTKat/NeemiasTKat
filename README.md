@@ -36,9 +36,11 @@
     
 ## 💻 Ferramentas 💻
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"> &nbsp;
+    <img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git" height="35"> &nbsp;
+    <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" height="35"> &nbsp;
+    <img src="https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white" height="35"> &nbsp;
 </div>
+    
 <br>    
     
 ## ⚡ Repositório ⚡
