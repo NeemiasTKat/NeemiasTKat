@@ -2,7 +2,7 @@
 
 <br>
 
-## Sobre mim 
+## Sobre mim 💥
 
 - 💻 Estudo Front-End
 - 🎮 Gosto de jogar nos meus tempos livres
