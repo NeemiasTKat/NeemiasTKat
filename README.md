@@ -7,6 +7,7 @@
 
 ## 💻 Contatos 💻
 <div>
+    <a href="https://wa.me/18996349638"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" widht= 35px; height= 35px></a>
     <a href="https://www.linkedin.com/in/neemias-sanches-ba4002273/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" widht= 35px; height= 35px></a> &nbsp;
     <a href="https://twitter.com/NeemiasTKat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" widht= 35px; height= 35px></a> &nbsp;
     <a href="mailto:neemiasanches@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" widht= 35px; height= 35px></a> &nbsp;
